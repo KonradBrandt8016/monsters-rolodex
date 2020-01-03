@@ -1,0 +1,17 @@
+.card {
+  height: 400px;
+  background-color: cyan;
+  overflow-x: hidden;
+}
+
+.card h2,
+.card p {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.card img {
+  width: 200px;
+  margin: auto;
+  display: block;
+}
