@@ -1,0 +1,2 @@
+(this.webpackJsonprolodex=this.webpackJsonprolodex||[]).push([[3],{14:function(e,a,t){},15:function(e,a,t){"use strict";t.r(a);var n=t(0),r=t.n(n);t(14);a.default=function(e){return r.a.createElement("div",{className:"card"},r.a.createElement("img",{alt:"robohash",src:"https://robohash.org/".concat(e.name,".png")}),r.a.createElement("h2",null,e.name),r.a.createElement("p",null,e.email))}}}]);
+//# sourceMappingURL=3.e555f486.chunk.js.map
